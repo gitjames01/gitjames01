@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<h1>General information</h1>
+<p>Backend Programer, My Languaje main is JavaScript with NodeJs and My database MongoDB</p>
+
 <!--
 **gitjames01/gitjames01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
